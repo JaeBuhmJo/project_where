@@ -62,6 +62,7 @@
 ## 아키텍쳐
 ---
 ### 디렉토리 구조
+```bash
 ├─.settings
 ├─project_where
 │  ├─.mvn
@@ -117,3 +118,4 @@
 │                  └─spring
 └─share
     └─img
+```
